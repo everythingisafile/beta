@@ -5,7 +5,8 @@
     <link>https://www.everythingisafile.net/</link>
     <description>Recent content on Everything is a file</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.everythingisafile.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2022 17:57:42 -0500</lastBuildDate><atom:link href="https://www.everythingisafile.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letterlocking</title>
       <link>https://www.everythingisafile.net/projects/letterlocking/</link>
@@ -47,6 +48,15 @@ SANS_Minneapolis_2018_Cyber_Ranges.pdf
 Security_on_a_Shoestring_Budget.pdf
 StPaulCollege-ACM-2014Apr-Keynote.pdf
 Why take the risk - MNGTS Dec 2011.pdf</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://www.everythingisafile.net/blog/introduction/</link>
+      <pubDate>Fri, 08 Apr 2022 17:57:42 -0500</pubDate>
+      
+      <guid>https://www.everythingisafile.net/blog/introduction/</guid>
+      <description>There are multiple branches on the UNIX tree but they all have fundamemtal similarities. A system built around the time of Windows 95 will have the same basic structure as a system built today. There are minor differences between the various distributions and flavors of UNIX but they have many of the same components and often the same ideology behind their design. Simply, you&amp;rsquo;ll always have a kernel, a shell, everything is a file, and most often a standardized set of commands accessible from the shell available in two major flavors the GNU Coreutils and Open Group POSIX.</description>
     </item>
     
   </channel>
