@@ -1,61 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.everythingisafile.net/projects/letterlocking/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/projects/design/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/projects/writing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/blog/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/tags/blog/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/tags/everythingisafile/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/blog/introduction/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/series/progress/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/series/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.everythingisafile.net/tags/</loc>
     <lastmod>2022-04-08T17:57:42-05:00</lastmod>
   </url>
-  
 </urlset>
