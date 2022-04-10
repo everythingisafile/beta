@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Everything is a file</title>
-    <link>https://www.everythingisafile.net/projects/</link>
+    <link>https://www.everythingisafile.com/projects/</link>
     <description>Recent content in Projects on Everything is a file</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.everythingisafile.net/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.everythingisafile.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letterlocking</title>
-      <link>https://www.everythingisafile.net/projects/letterlocking/</link>
+      <link>https://www.everythingisafile.com/projects/letterlocking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.net/projects/letterlocking/</guid>
+      <guid>https://www.everythingisafile.com/projects/letterlocking/</guid>
       <description>Folding and Locking Letters Being a technologist, I am often engrossed in older security technologies such as letter locking, making wax and sealing with it as well as exploration of paper types and treatments to make them resilient.</description>
     </item>
     
     <item>
       <title>Horticulture</title>
-      <link>https://www.everythingisafile.net/projects/design/</link>
+      <link>https://www.everythingisafile.com/projects/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.net/projects/design/</guid>
+      <guid>https://www.everythingisafile.com/projects/design/</guid>
       <description>Growing up in a forest I developed a strong admiration and respect for nature. I enjoy bringing nature indoors as well as growing my own food.</description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>https://www.everythingisafile.net/projects/writing/</link>
+      <link>https://www.everythingisafile.com/projects/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.net/projects/writing/</guid>
+      <guid>https://www.everythingisafile.com/projects/writing/</guid>
       <description>Presentations of mine.
 CSOOutlook-June2015-TakingControlWithCriticalSecurityControls.pdf
 CloudSecurity-ISC2TC-June2013.pdf
