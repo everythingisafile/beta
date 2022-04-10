@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Everything is a file</title>
-    <link>https://www.everythingisafile.com/</link>
+    <link>https://www.everythingisafile.net/</link>
     <description>Recent content on Everything is a file</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 17:57:42 -0500</lastBuildDate><atom:link href="https://www.everythingisafile.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 17:57:42 -0500</lastBuildDate><atom:link href="https://www.everythingisafile.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Letterlocking</title>
-      <link>https://www.everythingisafile.com/projects/letterlocking/</link>
+      <link>https://www.everythingisafile.net/projects/letterlocking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.com/projects/letterlocking/</guid>
+      <guid>https://www.everythingisafile.net/projects/letterlocking/</guid>
       <description>Folding and Locking Letters Being a technologist, I am often engrossed in older security technologies such as letter locking, making wax and sealing with it as well as exploration of paper types and treatments to make them resilient.</description>
     </item>
     
     <item>
       <title>Horticulture</title>
-      <link>https://www.everythingisafile.com/projects/design/</link>
+      <link>https://www.everythingisafile.net/projects/design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.com/projects/design/</guid>
+      <guid>https://www.everythingisafile.net/projects/design/</guid>
       <description>Growing up in a forest I developed a strong admiration and respect for nature. I enjoy bringing nature indoors as well as growing my own food.</description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>https://www.everythingisafile.com/projects/writing/</link>
+      <link>https://www.everythingisafile.net/projects/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.everythingisafile.com/projects/writing/</guid>
+      <guid>https://www.everythingisafile.net/projects/writing/</guid>
       <description>Presentations of mine.
 CSOOutlook-June2015-TakingControlWithCriticalSecurityControls.pdf
 CloudSecurity-ISC2TC-June2013.pdf
@@ -52,10 +52,10 @@ Why take the risk - MNGTS Dec 2011.pdf</description>
     
     <item>
       <title>Introduction</title>
-      <link>https://www.everythingisafile.com/blog/introduction/</link>
+      <link>https://www.everythingisafile.net/blog/introduction/</link>
       <pubDate>Fri, 08 Apr 2022 17:57:42 -0500</pubDate>
       
-      <guid>https://www.everythingisafile.com/blog/introduction/</guid>
+      <guid>https://www.everythingisafile.net/blog/introduction/</guid>
       <description>There are multiple branches on the UNIX tree but they all have fundamemtal similarities. A system built around the time of Windows 95 will have the same basic structure as a system built today. There are minor differences between the various distributions and flavors of UNIX but they have many of the same components and often the same ideology behind their design. Simply, you&amp;rsquo;ll always have a kernel, a shell, everything is a file, and most often a standardized set of commands accessible from the shell available in two major flavors the GNU Coreutils and Open Group POSIX.</description>
     </item>
     

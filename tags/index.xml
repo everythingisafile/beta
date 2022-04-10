@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Everything is a file</title>
-    <link>https://www.everythingisafile.com/tags/</link>
+    <link>https://www.everythingisafile.net/tags/</link>
     <description>Recent content in Tags on Everything is a file</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Apr 2022 17:57:42 -0500</lastBuildDate><atom:link href="https://www.everythingisafile.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Apr 2022 17:57:42 -0500</lastBuildDate><atom:link href="https://www.everythingisafile.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>blog</title>
-      <link>https://www.everythingisafile.com/tags/blog/</link>
+      <link>https://www.everythingisafile.net/tags/blog/</link>
       <pubDate>Fri, 08 Apr 2022 17:57:42 -0500</pubDate>
       
-      <guid>https://www.everythingisafile.com/tags/blog/</guid>
+      <guid>https://www.everythingisafile.net/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>everythingisafile</title>
-      <link>https://www.everythingisafile.com/tags/everythingisafile/</link>
+      <link>https://www.everythingisafile.net/tags/everythingisafile/</link>
       <pubDate>Fri, 08 Apr 2022 17:57:42 -0500</pubDate>
       
-      <guid>https://www.everythingisafile.com/tags/everythingisafile/</guid>
+      <guid>https://www.everythingisafile.net/tags/everythingisafile/</guid>
       <description></description>
     </item>
     
