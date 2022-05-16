@@ -1,2 +1,2 @@
 # beta
-"Everything is a file" class beta
+"Everything is a file" class beta.
